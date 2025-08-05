@@ -12,7 +12,7 @@ public class TC001_DemoFromTest extends BaseClass {
 	String firstName = "Testing";
 	String lastName = "Colleges";
 	String mobileNumber ="9876543210";
-	String dateOfBirth = "12/04/1989";
+	String dateOfBirth = "12/04/1947";
 	String state = "Goa";
 	
 	String demoFormConfirmationMessage = "You form is submitted! Thank You ...";
